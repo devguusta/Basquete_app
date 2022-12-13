@@ -10,4 +10,4 @@ Então o sistema deverá listar todos os times da NBA.
 Cenário(B): Detalhes do Time
 Dado que o cliente clicou em um time específico da nossa listagem.
 Quando abrir a nova tela.
-Então o sistema deverá exibir os detalhes sobre o time.
+Então o sistema deverá exibir os detalhes(nome,apelido,código,cidade,logo,) sobre o time.
